@@ -14,6 +14,4 @@ Treballem dia a dia per propagar al costat dels comercials i distribuïdors el p
 
 We work every day to spread along with commercials and distributors the purpose of RUBI (better professionals, better places) to improve the lives of professional tilers around the world.
 
-![RUBI MUSEUM]https://github.com/RUBI-Group/mktg/blob/gh-pages/rubi_museum.png?raw=true)
-
-<link rel="shortcut icon" type="image/png" href="favicon.png">
+![Museum](https://github.com/RUBI-Group/mktg/blob/gh-pages/rubi_museum.png?raw=true)
