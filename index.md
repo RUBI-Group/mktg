@@ -1,4 +1,4 @@
-# RUBI's Marketing Department Purpose and principles
+# RUBI's Marketing Department: Purpose and principles
 
 ## Español 
 
