@@ -1,4 +1,4 @@
-# OUR PURPOSE
+# RUBI's Marketing Department Purpose
 
 ## Español 
 
